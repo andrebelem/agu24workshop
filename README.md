@@ -14,7 +14,7 @@ pre-conference workshop at the
 - [Jing-Hui Tong](https://github.com/jhtong33)
 - [Federico Esteban](https://github.com/Esteban82)
 - [Max Jones](https://github.com/maxrjones)
-- [Andre Luiz Belem](https://github.com/andrebelem)
+- [Andre Belem](https://github.com/andrebelem)
 
 **When**
 - Sunday 8 December 2024, 8:30-17:00 (EST) / 13:10-22:00 (UTC)
